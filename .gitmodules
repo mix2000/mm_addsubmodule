@@ -1,0 +1,3 @@
+[submodule "workspaces/mm_submodule"]
+	path = workspaces/mm_submodule
+	url = https://github.com/mix2000/mm_submodule
